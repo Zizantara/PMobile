@@ -22,4 +22,4 @@
 
 ## UX
 
-<iframe src="https://www.youtube.com/watch?v=8IUPZ3lzzp0&list=RD8IUPZ3lzzp0&start_radio=1&pp=oAcB"></iframe>
+https://github.com/Zizantara/PMobile/blob/master/assets/UX.mp4
