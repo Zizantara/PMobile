@@ -22,4 +22,4 @@
 
 ## UX
 
-https://github.com/Zizantara/PMobile/blob/master/assets/UX.mp4
+[Lihat UX.mp4](https://github.com/Zizantara/PMobile/blob/master/assets/UX.mp4)
