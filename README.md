@@ -23,7 +23,7 @@
 ## UX
 
 ### Splash Screen 
-[Lihat UX.mp4](https://github.com/Zizantara/PMobile/blob/master/assets/UX.mp4)
+![Image](https://github.com/user-attachments/assets/ae3084a4-e5ad-4c88-aee0-faef6f829586)
 
 ### Aplikasi 
 ![Image](https://github.com/user-attachments/assets/a7d61299-6a1a-4b94-b4aa-dd5fc1c665b3)
